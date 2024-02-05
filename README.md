@@ -1,6 +1,6 @@
 # Bank Loan Analysis
 - SQL Script : [https://bit.ly/49kmMtC]
-- Dashboard  : [https://bit.ly/3SmwpBe]
+- Dashboard  : [https://bit.ly/3Su7QlE]
 ## Objective
 
 Analyze bank loan data using SQL and Power BI to derive key metrics. Calculate KPIs, distinguish 'Good Loans' and 'Bad Loans,' and create a grid view report by 'Loan Status.'
